@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yugyeong71/LeetCode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/yugyeong71/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/yugyeong71/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/yugyeong71/LeetCode/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/yugyeong71/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yugyeong71/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Matrix
@@ -42,5 +43,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/yugyeong71/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/yugyeong71/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/yugyeong71/LeetCode/tree/master/1051-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yugyeong71/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/yugyeong71/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
